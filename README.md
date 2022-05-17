@@ -1,4 +1,5 @@
-# tic-tac-toe
+# TicTacToe game in Vue.js
+This game is created following this [tutorial](https://www.youtube.com/watch?v=pFeXPWO4elk). Game uses Vue.js Composition API for game mechanics and LocalStorage for storing winner history.
 
 ## Project setup
 ```
